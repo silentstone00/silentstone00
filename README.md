@@ -1,39 +1,33 @@
 # 👋 Hi, I'm silentstone00
 
-Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software engineering and open-source contributions.
+Welcome to my GitHub profile! I'm a passionate developer with a keen interest in software engineering.
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, C++, Java
-- **Frameworks:** React, Node.js, Django, Flask
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, Jenkins, VS Code
+- **Languages:** Python, JavaScript, C++, C
+- **Frameworks:** React, Flask
+- **Databases:** MySQL 
+- **Tools:** Git, VS Code
 
 ## 🚀 Projects
 
 Here are some of my noteworthy projects:
 
-1. **[Project Name](https://github.com/silentstone00/project-name)**: Brief description of the project and its key features.
-2. **[Another Project](https://github.com/silentstone00/another-project)**: Brief description of the project and its key features.
-3. **[Yet Another Project](https://github.com/silentstone00/yet-another-project)**: Brief description of the project and its key features.
+1. **[FitFix](https://github.com/silentstone00/project-name)**: We are developing a full-stack iOS app using UIKit for daily clothing recommendations, helping users save time by eliminating the hassle of deciding what to wear.
+2. **[Attendance_Report](https://github.com/silentstone00/another-project)**: Using simple libraries like NumPy and Pandas, it creates student attendance reports from a CSV file, showing absences in days or hours, graphs, etc.
+3. **[Template_Website](https://github.com/silentstone00/yet-another-project)**: I created this website as part of an assignment for a Coursera course offered by Johns Hopkins University.
 
 ## 🌱 What I'm currently learning
 
-- Advanced Machine Learning techniques
-- Cloud computing with AWS
-- DevOps practices
+- Backend using FireBase
+- iOS Development
 
 ## 📫 How to reach me
 
-- **Email:** [your-email@example.com](mailto:your-email@example.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/your-profile)
-- **Twitter:** [@yourhandle](https://twitter.com/yourhandle)
+- **Email:** [your-email@example.com](mailto:saxenaaaviral05@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/aviral-saxena-5670351ba/)
+- **Twitter:** [@yourhandle](https://x.com/silentstone10)
 
-## 📝 Blog
-
-I also write about my learning journey and various topics in software development. Check out my blog:
-
-- **[Your Blog](https://yourblog.com)**
 
 ## 🏆 GitHub Stats
 
