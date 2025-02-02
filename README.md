@@ -24,9 +24,9 @@ Here are some of my noteworthy projects:
 
 ## 📫 How to reach me
 
-- **Email:** [your-email@example.com](mailto:saxenaaaviral05@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/aviral-saxena-5670351ba/)
-- **Twitter:** [@yourhandle](https://x.com/silentstone10)
+- **Email:** [saxenaaviral05@gmail.com](mailto:saxenaaaviral05@gmail.com)
+- **LinkedIn:** [aviral-saxena](https://www.linkedin.com/in/aviral-saxena-5670351ba/)
+- **Twitter:** [silentstone10](https://x.com/silentstone10)
 
 
 ## 🏆 GitHub Stats
