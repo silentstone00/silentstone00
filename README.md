@@ -29,17 +29,23 @@ Here are some of my noteworthy projects:
 - **Twitter:** [silentstone10](https://x.com/silentstone10)
 
 
-## 🏆 GitHub Stats
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h2>🏆 GitHub Stats</h2>
+        <img src="https://github-readme-stats.vercel.app/api?username=silentstone00&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <h2>📈 Top Languages</h2>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silentstone00&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
 
-![silentstone00's Stats](https://github-readme-stats.vercel.app/api?username=silentstone00&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
-
-## 📈 Top Languages
-
-![silentstone00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silentstone00&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
-
-## 🤝 Let's Connect
-
-Feel free to reach out if you want to collaborate on projects or just chat about technology.
+  <h2>👋 Let's Connect</h2>
+  <p>Feel free to reach out if you want to collaborate on projects or just chat about technology.</p>
+</div>
 
 ---
 
