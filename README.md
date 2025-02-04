@@ -31,11 +31,11 @@ Here are some of my noteworthy projects:
 
 ## 🏆 GitHub Stats
 
-![silentstone00's GitHub stats](https://github-readme-stats.vercel.app/api?username=silentstone00&show_icons=true&theme=radical)
+![silentstone00's Stats](https://github-readme-stats.vercel.app/api?username=silentstone00&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 
 ## 📈 Top Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silentstone00&layout=compact&theme=radical)
+![silentstone00's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=silentstone00&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
 ## 🤝 Let's Connect
 
