@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** Python, JavaScript, C++, C
+- **Languages:** C++, C, Python, JavaScript
 - **Frameworks:** React, Flask
 - **Databases:** MySQL 
 - **Tools:** Git, VS Code
