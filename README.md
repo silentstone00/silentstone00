@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 Here are some of my noteworthy projects:
 
 1. **[FitFix](https://github.com/Gunjanmishra481/FitFix)**: We are developing a full-stack iOS app using UIKit for daily clothing recommendations, helping users save time by eliminating the hassle of deciding what to wear.
-2. **[Attendance_Report](https://github.com/silentstone00/attendance_report_system)**: Using simple libraries like NumPy and Pandas, it creates student attendance reports from a CSV file, showing absences in days or hours, graphs, etc.
+2. **[Attendance_Report](https://github.com/silentstone00/attendance_report_system)**: Using basic tools like NumPy and Pandas, the program reads student attendance data from a CSV file and creates detailed reports. These reports show how many days or hours a student was absent and include graphs to make the information easy to understand.
 3. **[Template_Website](https://github.com/silentstone00/web.github.io)**: I created this website as part of an assignment for a Coursera course offered by Johns Hopkins University.(Link - https://silentstone00.github.io/web.github.io/week3)
 
 ## 🌱 What I'm currently learning
