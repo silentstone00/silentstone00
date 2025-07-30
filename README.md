@@ -4,10 +4,10 @@ Welcome to my GitHub profile! I'm a passionate developer with a keen interest in
 
 ## 🔧 Technologies & Tools
 
-- **Languages:** C++, C, Python, JavaScript
-- **Frameworks:** React, Flask
+- **Languages:** Swift, C++, C, Python, JavaScript
+- **Frameworks:** React, Flask, SwiftUI, UIKit
 - **Databases:** MySQL 
-- **Tools:** Git, VS Code
+- **Tools & Technologies:** Git, VS Code, Xcode, Firebase, Lottie, Core ML
 
 ## 🚀 Projects
 
