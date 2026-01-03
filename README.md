@@ -28,25 +28,6 @@ Here are some of my noteworthy projects:
 - **LinkedIn:** [aviral-saxena](https://www.linkedin.com/in/aviral-saxena-5670351ba/)
 - **Twitter:** [silentstone10](https://x.com/silentstone10)
 
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%" align="center">
-        <h2>🏆 GitHub Stats</h2>
-        <img src="https://github-readme-stats.vercel.app/api?username=silentstone00&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center">
-        <h2>📈 Top Languages</h2>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=silentstone00&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
-  <h2>👋 Let's Connect</h2>
-  <p>Feel free to reach out if you want to collaborate on projects or just chat about technology.</p>
-</div>
-
 ---
 
 Thank you for visiting my profile!
