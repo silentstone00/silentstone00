@@ -201,12 +201,6 @@ struct AviralSaxena: iOSDeveloper {
 
 </div>
 
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=silentstone00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
 ---
 
 <div align="center">
