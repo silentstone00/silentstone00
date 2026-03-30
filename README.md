@@ -17,9 +17,6 @@
 [![Twitter/X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/silentstone10)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saxenaaviral05@gmail.com)
 
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=silentstone00&style=for-the-badge&color=0d96f6&label=PROFILE+VIEWS)
 
 </div>
 
@@ -203,13 +200,6 @@ struct AviralSaxena: iOSDeveloper {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=silentstone00&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=0d96f6&icon_color=0d96f6&text_color=c9d1d9"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=silentstone00&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=0d96f6&text_color=c9d1d9"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=silentstone00&theme=tokyonight&hide_border=true&background=0D1117&ring=0D96F6&fire=FF9500&currStreakLabel=0D96F6)](https://git.io/streak-stats)
 
 </div>
@@ -219,27 +209,6 @@ struct AviralSaxena: iOSDeveloper {
 [![trophy](https://github-profile-trophy.vercel.app/?username=silentstone00&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
----
-
-## 📜 Certifications
-
-<div align="center">
-
-![GitHub](https://img.shields.io/badge/GitHub_Foundations-181717?style=for-the-badge&logo=github&logoColor=white)
-![Coursera](https://img.shields.io/badge/C_&_C++_Specialization-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-![Coursera](https://img.shields.io/badge/HTML_CSS_JS_(Johns_Hopkins)-0056D2?style=for-the-badge&logo=coursera&logoColor=white)
-
-</div>
-
----
-
-## 🌱 Currently Exploring
-
-- 🧵 Swift Macros & advanced Swift Concurrency patterns
-- 🤖 On-device AI with CoreML + Vision
-- 🏗️ Clean Architecture at scale for iOS apps
-- 📦 Swift Package development
 
 ---
 
