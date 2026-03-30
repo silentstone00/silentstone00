@@ -209,21 +209,6 @@ struct AviralSaxena: iOSDeveloper {
 
 ---
 
-## 📫 Let's Connect
-
-<div align="center">
-
-| Platform | Link |
-|:---:|:---:|
-| 📧 Email | [saxenaaviral05@gmail.com](mailto:saxenaaviral05@gmail.com) |
-| 💼 LinkedIn | [linkedin.com/in/aviral10](https://linkedin.com/in/aviral10) |
-| 🐦 X / Twitter | [@silentstone10](https://x.com/silentstone10) |
-| 💻 GitHub | [github.com/silentstone00](https://github.com/silentstone00) |
-
-</div>
-
----
-
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d96f6,50:1a1a2e,100:000000&height=120&section=footer&animation=fadeIn" />
