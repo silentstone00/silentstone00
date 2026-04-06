@@ -172,27 +172,6 @@ struct AviralSaxena: iOSDeveloper {
 
 ---
 
-## 💼 Experience
-
-```
-🏢  Loopinx Circle          iOS Developer Intern      Jan 2026 – Mar 2026  (Remote)
-    ├── REST APIs + JWT Auth + Keychain + OneSignal + PayU gateway
-    ├── Deep linking via Universal Links for event sharing
-    └── Shipped app to the App Store via App Store Connect ✅
-
-🏢  Infosys                 iOS Developer Intern      Apr – May 2025  (Mysuru, KA)
-    ├── SwiftUI + Firebase + Appwrite (2FA)
-    ├── LottieFiles animations + real-time device sync
-    └── Agile team — daily standups & sprint reviews
-
-🏢  iOS Dev Center, SRMIST  Student iOS Developer     Sep 2024 – Mar 2025  (Chennai)
-    ├── Pixel-perfect UIKit interfaces from Figma designs
-    ├── CoreML on-device clothing classifier
-    └── Firebase Authentication (secure & scalable)
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
