@@ -1,193 +1,188 @@
-<div align="center">
+<!--
+─────────────────────────────────────────────────────────
+  Aviral Saxena · iOS Engineer · github.com/silentstone00
+─────────────────────────────────────────────────────────
+-->
 
-<!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a1a2e,100:0d96f6&height=200&section=header&text=Aviral%20Saxena&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=iOS%20Developer%20%7C%20Apple%20Swift%20Student%20Challenge%20Winner%20🏆&descAlignY=58&descSize=18&animation=fadeIn" />
+###
 
-<!-- TYPING SVG -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=SF+Pro+Display&weight=600&size=22&duration=3000&pause=800&color=0D96F6&center=true&vCenter=true&multiline=false&width=600&lines=Building+for+the+App+Store+%F0%9F%93%B1;SwiftUI+%7C+UIKit+%7C+Swift+Concurrency;Pixel-perfect+iOS+Experiences+%E2%9C%A8;Apple+Swift+Student+Challenge+2026+Winner+%F0%9F%8F%86;Currently+@+SRM+Institute+%7C+Chennai" alt="Typing SVG" />
-</a>
+<samp>
 
-<br/>
+```
+~/aviral $ whoami
+```
 
-<!-- SOCIAL BADGES -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aviral10)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saxenaaviral05@gmail.com)
+</samp>
 
+# Aviral Saxena
+###### iOS Engineer · Chennai, India · ⌘ Apple Swift Student Challenge ’26 Winner
 
-</div>
+<sub>Building for the App Store since the day Xcode stopped crashing on me. &nbsp;|&nbsp; <a href="mailto:saxenaaviral05@gmail.com">saxenaaviral05@gmail.com</a> &nbsp;·&nbsp; <a href="https://linkedin.com/in/aviral10">linkedin/aviral10</a></sub>
 
 ---
 
-## 🍎 About Me
+###
+
+<samp>
+
+```
+~/aviral $ cat .profile.swift
+```
+
+</samp>
 
 ```swift
-struct AviralSaxena: iOSDeveloper {
+@main struct Aviral: App {
+    let role        = "iOS Engineer"
+    let university  = "SRMIST · B.Tech CSE · 8.88 CGPA"
+    let graduating  = "May 2026"
+    let shipped     = ["StatTree", "PlaceNotes", "Loopinx Circle"]
+    let recognised  = "Apple, WWDC 2026"
 
-    let name         = "Aviral Saxena"
-    let location     = "Chennai, Tamil Nadu 🇮🇳"
-    let university   = "SRM Institute of Science & Technology"
-    let degree       = "B.Tech CSE — CGPA: 8.88"
-    let batch        = "2022 – 2026"
-
-    let achievement  = "🏆 Apple Swift Student Challenge 2026 Winner"
-
-    var currentFocus: [String] {
-        ["SwiftUI", "Swift Concurrency", "Clean Architecture", "App Store"]
-    }
-
-    var passions: [String] {
-        ["Pixel-perfect UI", "Performance optimization", "Offline-first apps"]
-    }
-
-    func greet() -> String {
-        "Let's build something great for the App Store 🚀"
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+                .environment(\.craft, .pixelPerfect)
+                .preferredColorScheme(.dark)
+        }
     }
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+###
 
-### 📱 iOS & Apple Frameworks
+<samp>
 
-<div align="center">
+```
+~/aviral $ ls -la ~/Shipped
+```
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-0D96F6?style=for-the-badge&logo=swift&logoColor=white)
-![UIKit](https://img.shields.io/badge/UIKit-2396F3?style=for-the-badge&logo=apple&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
-![Core Data](https://img.shields.io/badge/Core_Data-0D96F6?style=for-the-badge&logo=apple&logoColor=white)
-![WidgetKit](https://img.shields.io/badge/WidgetKit-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)
-![MapKit](https://img.shields.io/badge/MapKit-34C759?style=for-the-badge&logo=apple&logoColor=white)
-![CloudKit](https://img.shields.io/badge/CloudKit-0D96F6?style=for-the-badge&logo=icloud&logoColor=white)
-![StoreKit](https://img.shields.io/badge/StoreKit_2-FF9500?style=for-the-badge&logo=apple&logoColor=white)
-![Combine](https://img.shields.io/badge/Combine-FF2D55?style=for-the-badge&logo=apple&logoColor=white)
-![CoreML](https://img.shields.io/badge/Core_ML-5856D6?style=for-the-badge&logo=apple&logoColor=white)
-![WebKit](https://img.shields.io/badge/WebKit-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)
+</samp>
 
-</div>
+###
 
-### 🧠 Languages & Architecture
+<table width="100%">
+<tr>
+<td width="34%" valign="top">
 
-<div align="center">
+#### `StatTree.app`
+<sub>Live · App Store</sub>
 
-![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MVVM](https://img.shields.io/badge/MVVM-FF6B35?style=for-the-badge&logo=apple&logoColor=white)
-![Clean Architecture](https://img.shields.io/badge/Clean_Arch-5856D6?style=for-the-badge&logo=apple&logoColor=white)
+A production iOS app powering analytics, push notifications, and offline-aware feeds.
 
-</div>
+```
+SwiftUI · Combine
+GraphQL · WebKit
+Firebase · APNs
+```
 
-### ☁️ Backend & APIs
+GraphQL caching layer, lazy pagination, dark-mode first.
 
-<div align="center">
+</td>
+<td width="33%" valign="top">
 
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Appwrite](https://img.shields.io/badge/Appwrite-FD366E?style=for-the-badge&logo=appwrite&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+#### `PlaceNotes.app`
+<sub>Offline-first · Subscription</sub>
 
-</div>
+Location notes that work without a connection. CloudKit syncs the second you’re back.
 
-### 🔧 Tools
+```
+Core Data · CloudKit
+WidgetKit · MapKit
+StoreKit 2 · CL
+```
 
-<div align="center">
+`GeofencePool` strategy — **30%** less battery drain.
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CocoaPods](https://img.shields.io/badge/CocoaPods-EE3322?style=for-the-badge&logo=cocoapods&logoColor=white)
-![SPM](https://img.shields.io/badge/Swift_Package_Manager-F05138?style=for-the-badge&logo=swift&logoColor=white)
-![Proxyman](https://img.shields.io/badge/Proxyman-1C1C1E?style=for-the-badge&logo=apple&logoColor=white)
-![XCTest](https://img.shields.io/badge/XCTest-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+</td>
+<td width="33%" valign="top">
 
-</div>
+#### `FitFix.app`
+<sub>On-device ML</sub>
 
----
+Outfit recommender. Classifies clothing locally — no cloud, no waiting.
 
-## 🏆 Achievements
+```
+UIKit · Core ML
+Firebase Auth
+Vision · Figma
+```
 
-<div align="center">
+Fully on-device inference, sub-second response.
 
-| 🥇 Achievement | 📌 Details |
-|:---|:---|
-| 🍎 **Apple Swift Student Challenge 2026 Winner** | Recognized by Apple for an outstanding Swift Playground app |
-| 🥈 **OODP Hackathon Finalist** | Top 20 out of 721 teams nationally |
-| 🏅 **Semiconductor Project Competition Winner** | SRM Institute, 2024 |
-
-</div>
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 Featured Projects
+###
 
-<div align="center">
+<samp>
 
-### 📊 StatTree — *Live on the App Store*
-[![App Store](https://img.shields.io/badge/Live_on_App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com)
+```
+~/aviral $ otool -L ~/skills.dylib
+```
 
-</div>
+</samp>
 
-> A production iOS app with GraphQL caching, lazy loading, push notifications, and polished dark-mode UX.
+```
+LANGUAGES         Swift  ████████████████████  expert
+                  C++    ████████░░░░░░░░░░░░  comfortable
+                  Python ███████░░░░░░░░░░░░░  comfortable
+                  SQL    ██████░░░░░░░░░░░░░░  working
 
-**Stack:** `SwiftUI` `Combine` `GraphQL` `WebKit` `Firebase`
+FRAMEWORKS        SwiftUI · UIKit · Combine · Swift Concurrency
+                  Core Data · CloudKit · WidgetKit · MapKit
+                  Core ML · WebKit · StoreKit 2 · Core Location
 
-- ⚡ GraphQL with caching, lazy loading & advanced filtering for blazing-fast data access
-- 🔔 Push notifications & progress tracking baked in
-- 🌙 Full dark mode, smooth animations & consistent cross-device performance
+ARCHITECTURE      MVVM · Clean Architecture · Coordinator
+                  Dependency Injection · Protocol-Oriented Design
 
----
+BACKEND           Firebase · GraphQL · REST · Appwrite · Django
 
-<div align="center">
-
-### 📍 PlaceNotes — *Offline-First Location App*
-
-</div>
-
-> Architected for 100% offline availability with on-device sync and location intelligence.
-
-**Stack:** `SwiftUI` `Core Location` `Core Data` `CloudKit` `WidgetKit` `StoreKit 2` `MapKit`
-
-- 🔄 Core Data + CloudKit sync — 100% data availability without internet
-- 🔋 Dynamic `GeofencePool` strategy reducing battery drain by **30%**
-- 💳 StoreKit 2 monetization — annual subscription + one-time lifetime purchase
+TOOLING           Xcode · Instruments · Proxyman · XCTest
+                  Swift Package Manager · CocoaPods · Git · Figma
+```
 
 ---
 
-<div align="center">
+###
 
-### 👗 FitFix — *AI Outfit Recommender*
-[![GitHub](https://img.shields.io/badge/View_Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gunjanmishra481/FitFix)
+<samp>
 
-</div>
+```
+~/aviral $ git log --oneline ~/wins
+```
 
-> Full-stack iOS app using CoreML for on-device clothing classification and personalized outfit recommendations.
+</samp>
 
-**Stack:** `UIKit` `Core ML` `Firebase Auth` `Figma`
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=silentstone00&theme=tokyonight&hide_border=true&background=0D1117&ring=0D96F6&fire=FF9500&currStreakLabel=0D96F6)](https://git.io/streak-stats)
-
-</div>
+```
+🍎  2026   Apple Swift Student Challenge  ·  Winner
+🥈  2024   OODP National Hackathon         ·  Top 20 / 721 teams
+🏅  2024   SRMIST Semiconductor Project    ·  Winner
+📦  2024   Loopinx Circle iOS              ·  Shipped to App Store
+📦  2025   StatTree                        ·  Shipped to App Store
+```
 
 ---
 
-<div align="center">
+###
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d96f6,50:1a1a2e,100:000000&height=120&section=footer&animation=fadeIn" />
+<samp>
 
-*"The best apps aren't just built — they're crafted."*
+```
+~/aviral $ man me
+```
 
-⭐ **If you find my work interesting, drop a star on a repo!**
+</samp>
 
-</div>
+> I care about the kind of details users never notice — until you take them away.
+> The 60fps scroll. The keyboard that knows when to leave. The launch that feels instant
+> because you put the work in to make it instant. That’s the job.
+
+###
+
+<sub>built in Xcode · designed in Figma · deployed with too much coffee &nbsp;<a href="https://github.com/silentstone00">↗</a></sub>
